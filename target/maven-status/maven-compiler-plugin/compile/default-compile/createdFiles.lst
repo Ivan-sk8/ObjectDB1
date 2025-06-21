@@ -1,0 +1,6 @@
+com\mycompany\objectdb1\modelo\Estudiante.class
+com\mycompany\objectdb1\modelo\vista\EstudianteFrame$1.class
+com\mycompany\objectdb1\modelo\services\EstudianteService.class
+com\mycompany\objectdb1\modelo\vista\EstudianteFrame.class
+com\mycompany\objectdb1\App.class
+com\mycompany\objectdb1\modelo\vista\EstudianteTableModel.class
