@@ -47,7 +47,7 @@ public class EstudianteFrame extends JFrame {
     }
 
     private void initComponents() {
-        setTitle("Sistema de Gestión de Esclavos (estudiantes) - ObjectDB");
+        setTitle("Sistema de Gestión de Estudiantes");
         setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
         setLayout(new BorderLayout());
 
